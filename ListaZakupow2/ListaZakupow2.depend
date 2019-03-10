@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1516487830 source:c:\users\adria\desktop\pw\semestr 2\proe\listazakupow2\lista.cpp
+	"lista.h"
+
+1516488146 source:c:\users\adria\desktop\pw\semestr 2\proe\listazakupow2\main.cpp
+	<iostream>
+	"produkt.h"
+	"produkty.h"
+	<fstream>
+	"my_exception.h"
+
+1516487846 source:c:\users\adria\desktop\pw\semestr 2\proe\listazakupow2\produkt.cpp
+	"produkt.h"
+
+1516487864 source:c:\users\adria\desktop\pw\semestr 2\proe\listazakupow2\produkty.cpp
+	"produkty.h"
+
+1516401847 source:c:\users\adria\desktop\pw\semestr 2\proe\listazakupow2\dane.cpp
+	"dane.h"
+
+1516401708 c:\users\adria\desktop\pw\semestr 2\proe\listazakupow2\dane.h
+	<ctime>
+	"lista.h"
+
+1516461153 c:\users\adria\desktop\pw\semestr 2\proe\listazakupow2\lista.h
+	<string>
+	<iostream>
+	<sstream>
+	"my_exception.h"
+
+1515850575 c:\users\adria\desktop\pw\semestr 2\proe\listazakupow2\produkt.h
+	"lista.h"
+	<iomanip>
+
+1515861842 c:\users\adria\desktop\pw\semestr 2\proe\listazakupow2\produkty.h
+	"dane.h"
+	<vector>
+	"produkt.h"
+
+1516488270 c:\users\adria\desktop\pw\semestr 2\proe\listazakupow2\my_exception.h
+	<exception>
+	<iostream>
+
+1516488328 source:c:\users\adria\desktop\pw\semestr 2\proe\listazakupow2\my_exeption.cpp
+	"my_exception.h"
+

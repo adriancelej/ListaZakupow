@@ -1,0 +1,16 @@
+LISTA
+11 03 2019 00 30 Adrian
+START
+Jogurt
+2.5
+6
+3
+END
+
+START
+Banany
+4.3
+3.21
+2
+END
+ENDLIST
